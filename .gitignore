@@ -1,6 +1,4 @@
-# Ignore embedded repos / dependencies
-baseline_deepsort/
-boxmot/
+
 
 # Python cache
 __pycache__/
